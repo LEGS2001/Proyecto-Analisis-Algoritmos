@@ -13,6 +13,9 @@ comparar = data[0]["Genre"] + data[0]["specs"] + data[0]["tags"]
 
 vector = []
 juegos = []
+
+nombre = "ARK: Survival Evolved"
+
 for juego in data:
     comparacion = []
     if "Genre" in juego:
@@ -31,14 +34,11 @@ for juego in data:
 
 count_vectorizer = CountVectorizer(stop_words='english')
 count_vectorizer = CountVectorizer()
-sparse_matrix = count_vectorizer.fit_transform(vector)
+matriz_dispersa = count_vectorizer.fit_transform(vector)
+matriz = matriz_dispersa.todense()
 
-doc_term_matrix = sparse_matrix.todense()
+print(distance.cosine(matriz[0], matriz[1]))
 
-print(doc_term_matrix[9])
-df = pd.DataFrame(doc_term_matrix, 
-                  columns=count_vectorizer.get_feature_names_out(), 
-                  index=juegos)
 
 #palabras = set(palabras)
 #with open("palabras.txt", "w") as p: 
