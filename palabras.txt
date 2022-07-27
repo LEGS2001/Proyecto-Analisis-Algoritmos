@@ -1,0 +1,380 @@
+Arena Shooter
+VR
+Hacking
+On-Rails Shooter
+Story Rich
+Design & Illustration
+Mini Golf
+Clicker
+Agriculture
+Horror
+Games Workshop
+Dungeon Crawler
+Silent Protagonist
+SteamVR Collectibles
+Oculus Rift DK2
+Gothic
+Seated
+Racing
+Pirates
+Philisophical
+God Game
+Hidden Object
+Trading Card Game
+Controller
+HTC Vive
+Trading
+Parkour
+World War I
+Psychological
+Relaxing
+Remake
+Alternate History
+Point & Click
+Dark Humor
+Rogue-like
+Bullet Time
+Classic
+Includes Source SDK
+Time Attack
+Score Attack
+City Builder
+Valve Anti-Cheat enabled
+Magic
+Voice Control
+Pixel Graphics
+Oculus Rift
+Soccer
+Memes
+Mods (require HL2)
+Twin Stick Shooter
+Hex Grid
+Free to Play
+Aliens
+Pool
+Intentionally Awkward Controls
+Sokoban
+Class-Based
+Stealth
+Sci-fi
+Online Co-op
+Realistic
+Hack and Slash
+Arcade
+Includes level editor
+Ninja
+First-Person
+Local Co-Op
+Rome
+Board Game
+Cross-Platform Multiplayer
+Audio Production
+Co-op Campaign
+Spectacle fighter
+Massively Multiplayer
+Violent
+Character Action Game
+Local Multi-Player
+Crafting
+Post-apocalyptic
+Procedural Generation
+Wargame
+Text-Based
+Simulation
+Time Manipulation
+Kickstarter
+Asynchronous Multiplayer
+2D
+Cartoon
+Animation & Modeling
+Underwater
+Space Sim
+Artificial Intelligence
+Anime
+Mechs
+Physics
+3D Platformer
+Walking Simulator
+Spelling
+NSFW
+Match 3
+Historical
+Villain Protagonist
+Visual Novel
+Design &amp; Illustration
+Keyboard / Mouse
+Education
+Offroad
+Space
+Wrestling
+Metroidvania
+Full controller support
+Demons
+MMO
+Otome
+1990's
+Game Development
+4 Player Local
+Cold War
+Action RPG
+Lore-Rich
+Dragons
+Mod
+Military
+Colorful
+Warhammer 40K
+Minimalist
+Open World
+Linear
+Resource Management
+2D Fighter
+Multi-player
+Bullet Hell
+PvE
+Turn-Based Tactics
+Tactical
+Comedy
+Cyberpunk
+Moddable
+Werewolves
+Survival
+Grid-Based Movement
+Conversation
+Cycling
+Football
+Futuristic
+Adventure
+Fantasy
+Commentary available
+Benchmark
+Puzzle-Platformer
+Cartoony
+Dark
+Female Protagonist
+Quick-Time Events
+Political
+Steam Turn Notifications
+Dark Comedy
+FMV
+Multiple Endings
+Windows Mixed Reality
+Funny
+In-App Purchases
+RPGMaker
+PvP
+Indie
+Fast-Paced
+Mystery Dungeon
+Transhumanism
+Modern
+CRPG
+Software
+Romance
+RPG
+Split Screen
+Short
+Early Access
+Steam Achievements
+Online Co-Op
+Psychological Horror
+Steam Cloud
+Real-Time
+Trains
+Steam Trading Cards
+Action-Adventure
+2.5D
+Based On A Novel
+Diplomacy
+Turn-Based Strategy
+Accounting
+Software Training
+Golf
+Lovecraftian
+Swordplay
+Local Multiplayer
+Replay Value
+Building
+Chess
+Steam Machine
+Partial Controller Support
+Sexual Content
+Choices Matter
+Action
+Single-player
+Rhythm
+Casual
+Competitive
+Shoot 'Em Up
+Western
+Medieval
+Online Multi-Player
+Hand-drawn
+Great Soundtrack
+Co-op
+Mature
+Tower Defense
+Satire
+Mining
+Crime
+Cinematic
+World War II
+Dating Sim
+Cute
+Third-Person Shooter
+6DOF
+Top-Down
+Strategy
+Strategy RPG
+Abstract
+Multiplayer
+Platformer
+Zombies
+Thriller
+Nudity
+Foreign
+Economy
+Sailing
+Gore
+Capitalism
+Inventory Management
+Turn-Based
+Shared/Split Screen
+Robots
+Lemmings
+Tactical RPG
+Heist
+Comic Book
+Horses
+Fighting
+Cult Classic
+Character Customization
+Tracked Motion Controllers
+Hardware
+RTS
+Star Wars
+Gaming
+Team-Based
+Management
+Typing
+JRPG
+Survival Horror
+Mars
+Steampunk
+Party-Based RPG
+Loot
+MOBA
+Voxel
+Detective
+Card Game
+War
+Time Travel
+Beat 'em up
+Sniper
+Isometric
+Crowdfunded
+Parody
+Retro
+1980s
+Psychedelic
+Video Production
+Science
+Tutorial
+Singleplayer
+Word Game
+Difficult
+Experimental
+Gambling
+MMORPG
+Choose Your Own Adventure
+Destruction
+Grand Strategy
+e-sports
+Dystopian
+Faith
+Basketball
+America
+Bowling
+Soundtrack
+FPS
+Experience
+Documentary
+Nonlinear
+Gun Customization
+Noir
+Family Friendly
+Steam Leaderboards
+TrackIR
+Illuminati
+Naval
+Puzzle
+Runner
+Movie
+Dynamic Narration
+Base Building
+Flight
+Real Time Tactics
+Assassin
+Atmospheric
+Supernatural
+Feature Film
+Animation &amp; Modeling
+Mythology
+Downloadable Content
+Perma Death
+Sandbox
+Music
+Interactive Fiction
+Vampire
+Exploration
+Conspiracy
+Stylized
+Music-Based Procedural Generation
+Driving
+Third Person
+Side Scroller
+Utilities
+Room-Scale
+Pinball
+Level Editor
+Underground
+Web Publishing
+Surreal
+Shooter
+Dinosaurs
+Drama
+Narration
+Programming
+Logic
+Captions available
+Gamepad
+LEGO
+4X
+Mystery
+Lara Croft
+Martial Arts
+GameMaker
+Photo Editing
+Sports
+Touch-Friendly
+Blood
+Fishing
+Mods
+Rogue-lite
+Superhero
+Bikes
+Standing
+Steam Workshop
+Dark Fantasy
+Batman
+Politics
+Real-Time with Pause
+Tanks
+Investigation
+Mouse only
+Turn-Based Combat
+Episodic
+Stats
+3D Vision
+Local Co-op
+Hunting
+Top-Down Shooter
