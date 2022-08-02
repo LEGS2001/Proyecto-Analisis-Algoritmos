@@ -15,8 +15,9 @@ juegos = []
 
 #IDEA: dar la lista y que el usuario ingrese el numero
 #Recordar bajarle uno al index porque la lista empieza en 1
-nombre = "ARK: Survival Evolved"
-num_juego = 0
+
+indice_juego = int(input("Ingrese el numero de juego con el que desea comprar (Use nombres.txt) \n"))
+# num_juegos = int(input("Ingrese la cantidad de juegos similares que desea ver \n"))
 
 for index, juego in enumerate(data):
     comparacion = []
@@ -30,21 +31,21 @@ for index, juego in enumerate(data):
     vector.append(" ".join(comparacion))
     juegos.append(juego["Title"])
 
-    #if num_juego == index - 1:
-        
-    if juego["Title"] == "ARK: Survival Evolved":
-        num_juego = index
+    if indice_juego - 1 == index:
+        juego_actual = juego["Title"]
 
 count_vectorizer = CountVectorizer(stop_words='english')
 count_vectorizer = CountVectorizer()
 matriz_dispersa = count_vectorizer.fit_transform(vector)
 matriz = matriz_dispersa.todense()
 
+comparaciones = {}
 for index, elemento in enumerate(matriz):
-    if juegos[index] != juegos[num_juego]:
-        print(juegos[index], ": ", cosine_similarity(numpy.array(matriz[num_juego]), numpy.array(elemento)))
+    if juegos[index] != juego_actual:
+        comparaciones[juegos[index]] = cosine_similarity(numpy.array(matriz[indice_juego - 1]), numpy.array(elemento))
 
-
+for juego in (sorted(comparaciones, key=comparaciones.get, reverse=True)[:5]):
+    print(juego, comparaciones[juego])
 
 #palabras = set(palabras)
 #with open("nombres.txt", "w", encoding='utf-8') as p: 
